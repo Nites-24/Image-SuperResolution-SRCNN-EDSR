@@ -1,4 +1,4 @@
-# Image-SuperResolution-SRCNN-EDSR
+
 # **Image Super-Resolution: SRCNN vs. EDSR**
 
 ## **Overview**
@@ -26,7 +26,7 @@ Through this project, I gained practical insights into:
 SRCNN: Lightweight and fast, designed for basic super-resolution tasks.
 EDSR: Advanced, deeper architecture for sharper and more detailed results using residual connections.
 
----## **Code and Notebook**
+**Code and Notebook**
 You can also open the notebook in Google Colab for interactive execution:  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-A3UHjZyNZNhmodw6cZ4gXwa-AA-_pLb?usp=drive_link)
 
